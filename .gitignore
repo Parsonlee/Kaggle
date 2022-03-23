@@ -1,4 +1,5 @@
 .vscode
 .DS_Store
-data
+data/
 lightning_logs/
+.ipynb_checkpoints/
