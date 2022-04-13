@@ -1,4 +1,5 @@
 # Kaggle
 Personal Kaggle projects backup.
 
-* Titanic accuracy: 0.8507295173961841
+* Titanic Score: 0.8507
+* Disaster Score: 0.8176
