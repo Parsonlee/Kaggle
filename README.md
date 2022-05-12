@@ -7,4 +7,4 @@ Personal Data Competions projects backup.
 
 - tianchi
   * Happiness Score: 0.70364
-  * News Score: 0.8193
+  * News Score: 0.8843
