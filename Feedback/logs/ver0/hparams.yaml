@@ -1,0 +1,6 @@
+hparams:
+  batch_size: 16
+  epochs: 3
+  lr: 5.0e-05
+  total_steps: 5517
+  weight_decay: 0.01
